@@ -1,0 +1,1 @@
+export const APPNAME = "365adm"
